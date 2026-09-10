@@ -18,5 +18,5 @@ jobs:
 
       - name: 여러 명령어 작성하기
         run: |
-          echo: `1 + 2 = `
-          echo: 3
+          echo `1 + 2 = `
+          echo 3
