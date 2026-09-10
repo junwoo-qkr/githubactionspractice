@@ -12,3 +12,6 @@ jobs:
     steps:
       - name: Hello World 출력
         run: echo "Hello World"
+      
+      - name: 1 + 2 출력
+        run: echo 1 + 2
